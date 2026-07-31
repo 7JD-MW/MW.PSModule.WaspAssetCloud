@@ -27,6 +27,10 @@ The **Wittch.PSModule.WaspAssetCloud** module provides a friendly PowerShell int
 Copy the module folder to:
 
 ```[powershell]
-$env:ProgramFiles\PowerShell\Modules```
+$env:ProgramFiles\PowerShell\Modules
+```
 
 Then import normally
+
+## References Used
+([WASP AssetCloud C# Examples](https://dl.waspbarcode.com/kb/cloud/WaspCSAPI-20180803.zip?_gl=1*hxvan9*_gcl_au*NzA3ODcxMzc0LjE3ODU1MTIzNTE))
